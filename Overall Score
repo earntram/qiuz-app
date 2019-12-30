@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <header>
+      <div class="row">
+        <div class="col-12">
+          <div class="title">
+          <h1>Math Quiz</h1>    
+          </div>
+        
+      </div>
+    </header>
+
+<!Overall Score>
+    <Main>
+      <fieldset>
+      <div class="row">
+        <div class="col-12">
+          </div>
+          <div class="Overall-Score">
+        <h5>Your Score ???</h5>
+        <div><button type="button" id="restart"> Restart Quiz</button></div>
+
+
+
+      </fieldset>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+.row::before,
+.row::after {
+  display: table;
+  content: '';
+}
+
+.row::after {
+  clear: both;
+}
+
+.col-12 {
+  float: left;
+  padding-left: 1.04166666%;
+  padding-right: 1.04166666%;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+@media only screen and (min-width: 640px) {
+  .col-12 {
+    width: 100%;
+  }
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin:0;
+  background:cover;
+  background-image:url("http://www.seekgif.com/uploads/white-wallpapers-abstract-0.jpeg");
+  background-color: #262626;
+}
+
+button {
+  margin-top:10px;
+  height: auto;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  color:black;
+  background: rgb(175, 235, 175);
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 0;
+  border-radius:3px;
+  padding: 10px 20px;
+}
+
+fieldset {
+  width:80%;
+  padding: 40px;
+  margin:0 auto;
+  background:rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
