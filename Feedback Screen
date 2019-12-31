@@ -29,12 +29,15 @@
           </div>
           <div class="Quesitons">
             <p>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?</p>
-              <p>a) 5 ft</p>
-              <p>b) 14 ft</p>
-              <p>c) 100 ft</p>
-              <p>d) 125 ft</p>
+             <form>
+                <input type="radio" id= "answerChoice1"name="answer" value="5ft"> a) 5 ft<br>
+                <input type="radio" id= "answerChoice2"name="answer" value="14ft"> b) 14 ft<br>
+                <input type="radio" id= "answerChoice3"name="answer" value="100ft"> c) 100 ft<br>
+                <input type="radio" id= "answerChoice4"name="answer" value="125ft"> d) 125 ft<br>
 
-           <p>Answer 14 ft</p>
+              <p>Answer 14 ft</p>
+            <input type="submit" value="Submit">
+              </form>
            <p> Feedback: You are correct or here is the right answer</p>
           <div>
            <button type="button" id="next"> Next </button>
