@@ -16,7 +16,7 @@
           <h1>Math Quiz</h1>    
           </div>
           <div class="Question Counter">
-          <h2>Question: 0/5 & Score: 0/5</h2>
+          <p>Question: 0/5 & Score: 0/5</p>
           </div>
         </div>
       </div>
@@ -30,46 +30,44 @@
           <button type="button" id="start"> Start Quiz</button>
           </div>
           <div class="Quesitons">
-            <h4>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?
-              <h5>a) 5 ft</h5>
-              <h5>b) 14 ft</h5>
-              <h5>c) 100 ft</h5>
-              <h5>d) 125 ft</h5>
+            <p>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?</p>
+              <p>a) 5 ft</p>
+              <p>b) 14 ft</p>
+              <p>c) 100 ft</p>
+              <p>d) 125 ft</p>
 
-           <h5>Answer 14 ft</h5>
-           </h4>
+           <p>Answer 14 ft</p>
 
-            <h4>2 What is the area of a circle with the radius of 5 inches?
-              <h5>a) 58.3 in</h5>
-              <h5>b) 65.4 in</h5>
-              <h5>c) 78.5 in</h5>
-              <h5>d) 100 in</h5>
-            <h5>Answer 78.5 inches</h5>
-              </h4>
+            <p>2 What is the area of a circle with the radius of 5 inches?
+              <p>a) 58.3 in</p>
+              <p>b) 65.4 in</p>
+              <p>c) 78.5 in</p>
+              <p>d) 100 in</p>
+            <p>Answer 78.5 inches</p>
+              </p>
 
-            <h4>3 What is the area of a square with the side length of 10 inches?
-              <h5>a) 5 ft</h5>
-              <h5>b) 14 ft</h5>
-              <h5>c) 100 ft</h5>
-              <h5>d) 125 ft</h5>
-            <h5>Answer 100 inches</h5>
-            </h4>
+            <p>3 What is the area of a square with the side length of 10 inches?
+              <p>a) 5 ft</p>
+              <p>b) 14 ft</p>
+              <p>c) 100 ft</p>
+              <p>d) 125 ft</p>
+            <p>Answer 100 inches</p>
+            </p>
 
-            <h4>4 What is the volume of a cube with the side length of 5 ft?
-              <h5>a) 5 ft</h5>
-              <h5>b) 14 ft</h5>
-              <h5>c) 100 ft</h5>
-              <h5>d) 125 ft</h5>
-            <h5>Answer 125 ft</h5>
-            </h4>
+            <p>4 What is the volume of a cube with the side length of 5 ft?</p>
+              <p>a) 5 ft</p>
+              <p>b) 14 ft</p>
+              <p>c) 100 ft</p>
+              <p>d) 125 ft</p>
+            <p>Answer 125 ft</p>
+            
 
-            <h4>5 What is the volume of a square pyramid with the side length of 5 ft and height of 7 ft?
-              <h5>a) 58.3 in</h5>
-              <h5>b) 65.4 in</h5>
-              <h5>c) 78.5 in</h5>
-              <h5>d) 100 in</h5>
-            <h5>Answer 58.3 ft</h5>
-            </h4>
+            <p>5 What is the volume of a square pyramid with the side length of 5 ft and height of 7 ft?</p>
+              <p>a) 58.3 in</p>
+              <p>b) 65.4 in</p>
+              <p>c) 78.5 in</p>
+              <p>d) 100 in</p>
+            <p>Answer 58.3 ft</p>
         </div>
       </div>
       </fieldset>
