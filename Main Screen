@@ -27,47 +27,62 @@
       <fieldset>
       <div class="row">
         <div class="col-12">
-          <button type="button" id="start"> Start Quiz</button>
-          </div>
           <div class="Quesitons">
-            <p>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?</p>
-              <p>a) 5 ft</p>
-              <p>b) 14 ft</p>
-              <p>c) 100 ft</p>
-              <p>d) 125 ft</p>
+            <p>1) The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?</p>
+              <form>
+                <input type="radio" id= "answerChoice1"name="answer" value="5ft"> a) 5 ft<br>
+                <input type="radio" id= "answerChoice2"name="answer" value="14ft"> b) 14 ft<br>
+                <input type="radio" id= "answerChoice3"name="answer" value="100ft"> c) 100 ft<br>
+                <input type="radio" id= "answerChoice4"name="answer" value="125ft"> d) 125 ft<br>
 
-           <p>Answer 14 ft</p>
+              <p>Answer 14 ft</p>
+            <input type="submit" value="Submit">
+              </form>
 
-            <p>2 What is the area of a circle with the radius of 5 inches?
-              <p>a) 58.3 in</p>
-              <p>b) 65.4 in</p>
-              <p>c) 78.5 in</p>
-              <p>d) 100 in</p>
+
+            <p>2) What is the area of a circle with the radius of 5 inches?</p>
+              <form>
+                <input type="radio" id= "answerChoice5"name="answer" value="58.3in"> a) 58.3 in<br>
+                <input type="radio" id= "answerChoice6"name="answer" value="65.4in"> b) 65.4 in<br>
+                <input type="radio" id= "answerChoice7"name="answer" value="78.5in"> c) 78.5 in<br>
+                <input type="radio" id= "answerChoice8"name="answer" value="100in"> d) 100 in<br>
+
             <p>Answer 78.5 inches</p>
-              </p>
+            <input type="submit" value="Submit">
+              </form>
 
-            <p>3 What is the area of a square with the side length of 10 inches?
-              <p>a) 5 ft</p>
-              <p>b) 14 ft</p>
-              <p>c) 100 ft</p>
-              <p>d) 125 ft</p>
+            <p>3) What is the area of a square with the side length of 10 inches?</p>
+            <form>
+              <input type="radio" id= "answerChoice9"name="answer" value="5ft"> a) 5 ft<br>
+              <input type="radio" id= "answerChoice10"name="answer" value="14ft"> b) 14 ft<br>
+              <input type="radio" id= "answerChoice11"name="answer" value="100ft"> c) 100 ft<br>
+              <input type="radio" id= "answerChoice12"name="answer" value="125ft"> d) 125 ft<br>
+
             <p>Answer 100 inches</p>
-            </p>
+          <input type="submit" value="Submit">
+              </form>
 
-            <p>4 What is the volume of a cube with the side length of 5 ft?</p>
-              <p>a) 5 ft</p>
-              <p>b) 14 ft</p>
-              <p>c) 100 ft</p>
-              <p>d) 125 ft</p>
+            <p>4) What is the volume of a cube with the side length of 5 ft?</p>
+            <form>
+              <input type="radio" id= "answerChoice13"name="answer" value="5ft"> a) 5 ft<br>
+              <input type="radio" id= "answerChoice14"name="answer" value="14ft"> b) 14 ft<br>
+              <input type="radio" id= "answerChoice15"name="answer" value="100ft"> c) 100 ft<br>
+              <input type="radio" id= "answerChoice16"name="answer" value="125ft"> d) 125 ft<br>
+
             <p>Answer 125 ft</p>
+            <input type="submit" value="Submit">
+              </form>
             
 
             <p>5 What is the volume of a square pyramid with the side length of 5 ft and height of 7 ft?</p>
-              <p>a) 58.3 in</p>
-              <p>b) 65.4 in</p>
-              <p>c) 78.5 in</p>
-              <p>d) 100 in</p>
+            <form>
+              <input type="radio" id= "answerChoice17"name="answer" value="58.3in"> a) 58.3 in<br>
+              <input type="radio" id= "answerChoice18"name="answer" value="65.4in"> b) 65.4 in<br>
+              <input type="radio" id= "answerChoice19"name="answer" value="78.5in"> c) 78.5 in<br>
+              <input type="radio" id= "answerChoice20"name="answer" value="100in"> d) 100 in<br>
             <p>Answer 58.3 ft</p>
+            <input type="submit" value="Submit">
+              </form>
         </div>
       </div>
       </fieldset>
