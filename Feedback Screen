@@ -15,7 +15,7 @@
           <h1>Math Quiz</h1>    
           </div>
           <div class="Question Counter">
-          <h2>Question: 0/5 & Score: 0/5</h2>
+          <p>Question: 0/5 & Score: 0/5</p>
           </div>
         </div>
       </div>
@@ -28,15 +28,14 @@
         <div class="col-12">
           </div>
           <div class="Quesitons">
-            <h4>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?
-              <h5>a) 5 ft</h5>
-              <h5>b) 14 ft</h5>
-              <h5>c) 100 ft</h5>
-              <h5>d) 125 ft</h5>
+            <p>1 The ratio of the model car’s dimensions to the actual car’s dimensions are 1/56.  The model is 3 inches long.  What is the length of the actual car?</p>
+              <p>a) 5 ft</p>
+              <p>b) 14 ft</p>
+              <p>c) 100 ft</p>
+              <p>d) 125 ft</p>
 
-           <h5>Answer 14 ft</h5>
-           </h4>
-           <h5> Feedback: You are correct or here is the right answer
+           <p>Answer 14 ft</p>
+           <p> Feedback: You are correct or here is the right answer</p>
           <div>
            <button type="button" id="next"> Next </button>
           </div>
