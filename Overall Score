@@ -25,7 +25,7 @@
         <div class="col-12">
           </div>
           <div class="Overall-Score">
-        <h5>Your Score ???</h5>
+        <p>Your Score ???</p>
         <div><button type="button" id="restart"> Restart Quiz</button></div>
 
 
